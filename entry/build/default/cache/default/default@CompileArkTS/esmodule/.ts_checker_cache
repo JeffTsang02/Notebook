@@ -1,0 +1,398 @@
+{
+  "runtimeOS": "HarmonyOS",
+  "sdkInfo": "false:9:3.2.12.5:Release",
+  "fileList": {
+    "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\entryability\\EntryAbility.ts": {
+      "mtimeMs": 1718938281234.825,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\pages\\LoginPage.ets": {
+      "mtimeMs": 1718938900870.3845,
+      "children": [
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\pages\\MainPage.ets": {
+      "mtimeMs": 1718176362071.986,
+      "children": [
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets",
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\view\\Home.ets",
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\view\\Setting.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Code\\Huawei\\SDK\\openharmony\\9\\ets\\api\\@ohos.app.ability.UIAbility.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Code\\Huawei\\SDK\\openharmony\\9\\ets\\api\\@ohos.app.ability.Ability.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Code\\Huawei\\SDK\\openharmony\\9\\ets\\api\\@ohos.app.ability.Configuration.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Code\\Huawei\\SDK\\openharmony\\9\\ets\\api\\application\\UIAbilityContext.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Code\\Huawei\\SDK\\openharmony\\9\\ets\\api\\bundleManager\\AbilityInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Code\\Huawei\\SDK\\openharmony\\9\\ets\\api\\bundleManager\\ApplicationInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Code\\Huawei\\SDK\\openharmony\\9\\ets\\api\\@ohos.bundle.bundleManager.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Code\\Huawei\\SDK\\openharmony\\9\\ets\\api\\bundleManager\\BundleInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Code\\Huawei\\SDK\\openharmony\\9\\ets\\api\\bundleManager\\HapModuleInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Code\\Huawei\\SDK\\openharmony\\9\\ets\\api\\bundleManager\\ExtensionAbilityInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Code\\Huawei\\SDK\\openharmony\\9\\ets\\api\\ability\\abilityResult.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Code\\Huawei\\SDK\\openharmony\\9\\ets\\api\\ability\\connectOptions.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Code\\Huawei\\SDK\\openharmony\\9\\ets\\api\\@ohos.rpc.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Code\\Huawei\\SDK\\openharmony\\9\\ets\\api\\application\\Context.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Code\\Huawei\\SDK\\openharmony\\9\\ets\\api\\@ohos.resourceManager.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Code\\Huawei\\SDK\\openharmony\\9\\ets\\api\\application\\ApplicationContext.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Code\\Huawei\\SDK\\openharmony\\9\\ets\\api\\@ohos.app.ability.AbilityLifecycleCallback.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Code\\Huawei\\SDK\\openharmony\\9\\ets\\api\\@ohos.window.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Code\\Huawei\\SDK\\openharmony\\9\\ets\\api\\@ohos.multimedia.image.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Code\\Huawei\\SDK\\openharmony\\9\\ets\\api\\@ohos.app.ability.EnvironmentCallback.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Code\\Huawei\\SDK\\openharmony\\9\\ets\\api\\@ohos.app.ability.dialogRequest.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets": {
+      "mtimeMs": 1718900457998.1921,
+      "children": [
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\model\\TableInterface.ets"
+      ],
+      "parent": [
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\pages\\LoginPage.ets",
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\pages\\MainPage.ets",
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\view\\Home.ets",
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\view\\Setting.ets",
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\pages\\Register.ets"
+      ],
+      "error": false
+    },
+    "E:\\Code\\Huawei\\SDK\\openharmony\\9\\ets\\api\\@ohos.promptAction.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Code\\Huawei\\SDK\\openharmony\\9\\ets\\api\\@ohos.router.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\view\\Home.ets": {
+      "mtimeMs": 1718179592136.2224,
+      "children": [
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets",
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\viewmodel\\MainViewModel.ets",
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\viewmodel\\ItemData.ets"
+      ],
+      "parent": [
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\pages\\MainPage.ets"
+      ],
+      "error": false
+    },
+    "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\view\\Setting.ets": {
+      "mtimeMs": 1697165058000,
+      "children": [
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets",
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\viewmodel\\ItemData.ets",
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\viewmodel\\MainViewModel.ets"
+      ],
+      "parent": [
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\pages\\MainPage.ets"
+      ],
+      "error": false
+    },
+    "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\viewmodel\\MainViewModel.ets": {
+      "mtimeMs": 1697165058000,
+      "children": [
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\viewmodel\\ItemData.ets"
+      ],
+      "parent": [
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\view\\Home.ets",
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\view\\Setting.ets"
+      ],
+      "error": false
+    },
+    "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\viewmodel\\ItemData.ets": {
+      "mtimeMs": 1695806736000,
+      "children": [],
+      "parent": [
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\view\\Home.ets",
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\viewmodel\\MainViewModel.ets",
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\view\\Setting.ets"
+      ],
+      "error": false
+    },
+    "E:\\Code\\Huawei\\SDK\\openharmony\\9\\ets\\build-tools\\ets-loader\\declarations\\canvas.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Code\\Huawei\\SDK\\openharmony\\9\\ets\\build-tools\\ets-loader\\declarations\\common.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Code\\Huawei\\SDK\\openharmony\\9\\ets\\component\\common.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Code\\Huawei\\SDK\\openharmony\\9\\ets\\build-tools\\ets-loader\\declarations\\web.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Code\\Huawei\\SDK\\openharmony\\9\\ets\\api\\@ohos.web.webview.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\Code\\Huawei\\SDK\\openharmony\\9\\ets\\build-tools\\ets-loader\\declarations\\matrix2d.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\pages\\Register.ets": {
+      "mtimeMs": 1718903870211.532,
+      "children": [
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\pages\\NoteMain.ets": {
+      "mtimeMs": 1718939039646.1394,
+      "children": [
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\component\\CustomDialogEdit.ets",
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\component\\CustomDialogExample.ets",
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\component\\MemoItem.ets",
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\component\\MemoSearch.ets",
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\Model\\MemoModel.ets",
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\database\\MemoTable.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\component\\CustomDialogExample.ets": {
+      "mtimeMs": 1718882533774.3503,
+      "children": [],
+      "parent": [
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\pages\\NoteMain.ets"
+      ],
+      "error": false
+    },
+    "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\component\\MemoItem.ets": {
+      "mtimeMs": 1718885091639.494,
+      "children": [
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\Model\\MemoModel.ets"
+      ],
+      "parent": [
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\pages\\NoteMain.ets"
+      ],
+      "error": false
+    },
+    "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\component\\MemoSearch.ets": {
+      "mtimeMs": 1718852136807.4714,
+      "children": [],
+      "parent": [
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\pages\\NoteMain.ets"
+      ],
+      "error": false
+    },
+    "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\Model\\MemoModel.ets": {
+      "mtimeMs": 1718469738894.8071,
+      "children": [],
+      "parent": [
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\pages\\NoteMain.ets",
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\component\\MemoItem.ets"
+      ],
+      "error": false
+    },
+    "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\model\\TableInterface.ets": {
+      "mtimeMs": 1708001528000,
+      "children": [],
+      "parent": [
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets",
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\constants\\CommonConstants.ets"
+      ],
+      "error": false
+    },
+    "E:\\Code\\Huawei\\SDK\\openharmony\\9\\ets\\api\\@ohos.data.relationalStore.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\component\\CustomDialogEdit.ets": {
+      "mtimeMs": 1718886934921.5852,
+      "children": [],
+      "parent": [
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\pages\\NoteMain.ets"
+      ],
+      "error": false
+    },
+    "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\database\\MemoTable.ets": {
+      "mtimeMs": 1708001528000,
+      "children": [
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\model\\MemoModel.ets",
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\constants\\CommonConstants.ets",
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\database\\Rdb.ets"
+      ],
+      "parent": [
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\pages\\NoteMain.ets"
+      ],
+      "error": false
+    },
+    "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\model\\MemoModel.ets": {
+      "mtimeMs": 1718469738894.8071,
+      "children": [],
+      "parent": [
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\database\\MemoTable.ets"
+      ],
+      "error": false
+    },
+    "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\constants\\CommonConstants.ets": {
+      "mtimeMs": 1708001528000,
+      "children": [
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\model\\TableInterface.ets"
+      ],
+      "parent": [
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\database\\MemoTable.ets",
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\database\\Rdb.ets"
+      ],
+      "error": false
+    },
+    "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\database\\Rdb.ets": {
+      "mtimeMs": 1708001528000,
+      "children": [
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\constants\\CommonConstants.ets",
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\utils\\Logger.ets"
+      ],
+      "parent": [
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\database\\MemoTable.ets"
+      ],
+      "error": false
+    },
+    "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\utils\\Logger.ets": {
+      "mtimeMs": 1708001528000,
+      "children": [],
+      "parent": [
+        "C:\\Users\\IceyFox\\Desktop\\Harmony\\ArkTSComponents\\entry\\src\\main\\ets\\database\\Rdb.ets"
+      ],
+      "error": false
+    },
+    "E:\\Code\\Huawei\\SDK\\openharmony\\9\\ets\\api\\@ohos.data.preferences.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    }
+  }
+}
